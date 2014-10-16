@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbo:home|Door43 (cbo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbo|d43-cbo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbo/archive/master.zip|d43-cbo.zip]]
+
+**Recent Changes**
+{{changes>ns = cbo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbo|Ethnologue data]]
+
